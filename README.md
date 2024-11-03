@@ -2,6 +2,14 @@
 
 A PowerShell-based tool that adds a context menu option to Windows Explorer for adding BOM (Byte Order Mark) to CSV files. This tool supports both single and multiple file conversions with a user-friendly progress interface.
 
+#Before
+<img width="1223" alt="image" src="https://github.com/user-attachments/assets/729fd4f3-d3fb-453b-87e3-a6dedd557e56">
+
+#After
+
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/7488c58f-6d85-4340-961a-497701e579ae">
+
+
 ## Features
 
 - Adds "Add BOM to CSV" option to Windows context menu
@@ -96,6 +104,8 @@ cd C:\bomactivity\N
 ## Step 5: Use the Tool
 1. Find any CSV file
 2. Right-click on the file
+<img width="187" alt="image" src="https://github.com/user-attachments/assets/6f00a7b0-84e8-48c5-8a07-c62f0c99e6b0">
+
 3. In the context menu, look for and select "Add BOM to CSV"
 4. Wait for the conversion process to complete
 5. A success message will appear when done
